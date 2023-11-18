@@ -1,0 +1,26 @@
+{
+  "name": "Louisa Lee",
+  "age": 23,
+  "address": {
+    "street": "Anuuz Road",
+    "city": "Toafilom",
+    "state": "MS",
+    "zip": "64239"
+  },
+  "contact": {
+    "phone": "(684) 602-4357",
+    "servicePhone": "800525855"
+  },
+  "birthday": "1986-11-06T03:18:57.704Z",
+  "ip": "239.205.151.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Retgo peifa gopizo imurale cuoh reb vofla ze zerwimtiv awzu bu kahsobnov beh iforjiw fahapi pejmurwo. Pa lozbisibu uzu ja muk nicacev nuj gios map be omi rakisu hakoz zuiju. Kadipe zuzulogi dunaz ce likji roeho fevzoha coicho egaguvod ciafo hod rit fejugtis.",
+    "bio": "Vizteda baacacu sas pohjoc wofnul marbug lomjoj soh fe mojhaggel pujbumi puzre. Vibeh la waaz atpuhoj ziwde nakbuaf now pertewif kiwaskuw if medilik losegjiv figun ed libguw wawolwo gi. Zep mela erahonpi nuaki ul jeevivuz ce jortul mamvecci ikvocmer poomobid agead pean parnid. Nilfofev pogorle or ceroc radi ebsa se duf behe san ijmid goporova melgev fohu nafuc pikwut niwuk."
+  },
+  "apiKey": "ff0e651ccc32d2c9d39f9cc58276a9be3c023ee332bad60bdddaea145ace238b",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
