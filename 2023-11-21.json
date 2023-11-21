@@ -1,0 +1,26 @@
+{
+  "name": "Isabel Holt",
+  "age": 22,
+  "address": {
+    "street": "Mici Grove",
+    "city": "Rovfiblin",
+    "state": "CT",
+    "zip": "63813"
+  },
+  "contact": {
+    "phone": "(822) 446-2576",
+    "servicePhone": "800286347"
+  },
+  "birthday": "1963-05-08T22:15:56.393Z",
+  "ip": "176.74.75.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Ehawibi keawasag keknoga eta ohuzog romip acizul ketlip wi seke kanu zu dug hupimfo jikuz rib. Ojgu pe fial zakucire telo zo tan kowus fimti zirogo secotoz ditu ha. Sohi ad be re irle jo feh vihbugwes metuz loosibo ho mobutsah. Onu ziduz giwkab opeacu ve wo gol bal voj ab bojbabfiw buli kunaco tor aw raat cewitpat.",
+    "bio": "Jameci pigupare infonka vamcazo bopagkoc vaura rak uscujtuz hitaiki feab vomuce noktije cilhet ezo. Eke kutip ikugegu miravza kamseagu derlevcig lo poc ve sos reon ji mirawo keregeohe nejab eca. Kowdovzal bav abdulo ja ji leg pu wiemucu cocaddi doohe tuwuv wuguzapuv fobbu gezkifnob arime. Humavle obotabam lo ahano cecegsi uwozon tibnuk fif samder wawez efi ru ecebe sufule zorcojlek."
+  },
+  "apiKey": "adb4b8a38e0bcba525f1427a528332748b404466cd9a11057b78d2bf657e1dce",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
