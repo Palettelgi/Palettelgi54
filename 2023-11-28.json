@@ -1,0 +1,26 @@
+{
+  "name": "Sam Mann",
+  "age": 56,
+  "address": {
+    "street": "Pelav Key",
+    "city": "Wahlecri",
+    "state": "TN",
+    "zip": "90970"
+  },
+  "contact": {
+    "phone": "(657) 755-7400",
+    "servicePhone": "800492187"
+  },
+  "birthday": "1980-01-02T11:02:16.371Z",
+  "ip": "176.12.185.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Vajuzgo ujotelir kozob gasaz go huw pumge me eb be lajokis ne sewfoh vi aluzetpa. Abbug reetiju fezuz ozharje bilapjen rusjom zo va dubos iw buzaki pu cuggebub hom asukeife si ise mid. Po ro ahkagcef ziceam zo iwrob masuh limcol cuhedsek id jiojajab pi tofsu.",
+    "bio": "Iwco jurahsof molak abazo nisok wepjodjo ocdeb ron aniofneh eme zeec bepfi se zan rowgikre bogosor pulhivwa. Ivowevi tokuvkug nifila bipas nepicoton gecasvi jetnug luwrivvoc ozwukwe ahde oceeha pur. To robuboda kag ju vas taeraso esbaive re nojle gegmezwej tiwu ose efemal hocazkuf fawetzas sinso wemibo hojukig. Cibodawi liv mowezis mevsoc god ledata ebocwom pa budu doj ran paol sena. Wab sahep rifpoz wonlujud vauf ozamod bo disbab avwuin zef fi ku kih ful jidnofar dataata vuvwisul abpic. Nicegnic pu rakci edwa wihacce ze mad uwoh botabok tej vavam jedu mudbu bul nih si ed nib."
+  },
+  "apiKey": "5aa658e47a61781341a19ed7744c8a3f4f60850090db443dac71bda2cef3ebbe",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
