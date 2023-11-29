@@ -1,0 +1,26 @@
+{
+  "name": "Lenora Tate",
+  "age": 45,
+  "address": {
+    "street": "Kabo Loop",
+    "city": "Kihdipudu",
+    "state": "IA",
+    "zip": "59198"
+  },
+  "contact": {
+    "phone": "(371) 883-2350",
+    "servicePhone": "800975368"
+  },
+  "birthday": "1998-05-03T17:39:32.419Z",
+  "ip": "196.185.172.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Radbavmem tihug fi vo toif jatanaled zo res oszot ewugogjon uh titeh hi okoaw vos. Keh gilebzo sis nosam abu ijera jonahwag hean hotici caala icodoofa rek cuuved. Ar okfilbi ri ircilop gonin if muw lehdeic bug je ejhudko jazzan.",
+    "bio": "Ezeicu vuc etjo nudgis fusaho kajikre eszob zerhova zini kafbe ebewalzul sog ka cal. Fuazfik sabibefu nuon zosligsak oco mah gif na lik cocrov seb coohipad pi ufugukwar zezno fo bod lemzaure. Keod ap nomlal wuzsupug mo zinref mazolriw je jagebuf mil kokuc bati ab ocozor. Edrese gu vewuf ud piw tif jujnig et uv bo geaz jopnihka tudmivoto itajosko velul jokur."
+  },
+  "apiKey": "46bce884bf93f72a085140c50d69696bd92b27f25d4e0a9c9091f1ecab4e1b89",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
