@@ -1,0 +1,26 @@
+{
+  "name": "Alvin King",
+  "age": 56,
+  "address": {
+    "street": "Fizam Manor",
+    "city": "Fapnacuk",
+    "state": "SC",
+    "zip": "47709"
+  },
+  "contact": {
+    "phone": "(346) 403-6813",
+    "servicePhone": "800144551"
+  },
+  "birthday": "1969-04-17T13:08:20.854Z",
+  "ip": "83.144.149.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Buco idawamtit ta kafewab ihnev utbej geral faaf zacda tesluhel debis komoz juaj. Iteju dodha armi sewaj fo zajehu bamizaol foti tulaz wo vura edukot. Puvez mutot sedvuoh kupifwi ruh uj it sactutu fuc vo egavo vitafa cez bugoni di behisi. Mewelu iceba taz do mergof ikhopzud vok rotadjok tapatpal sum hivru det zastiw.",
+    "bio": "Tezlos raphogho radof bivulu nuzunab kotelu boatet uncotu kacbeci livsoowi cis era nu ukugile. Woudo narasu coek ika pi ahu ha timi pagaeba jo ze okocubtep jeazwol. Givasisa te nar zug vuhetul leodagim jajzel gasep pami vuz legafbu kog lanupag ul."
+  },
+  "apiKey": "16248f9cf488e007ecc4498a1aa1f3d3ed3f9b9de05dd9e37e65ac8c0fdd90fe",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
