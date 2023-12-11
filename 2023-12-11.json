@@ -1,0 +1,26 @@
+{
+  "name": "Harold Casey",
+  "age": 32,
+  "address": {
+    "street": "Bozodu Mill",
+    "city": "Noputoh",
+    "state": "ND",
+    "zip": "02651"
+  },
+  "contact": {
+    "phone": "(602) 535-6492",
+    "servicePhone": "800446761"
+  },
+  "birthday": "2003-09-27T15:49:05.941Z",
+  "ip": "77.173.252.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuvasvut uhmizmer tinsote fi wiarimim paf pi nekum wow kaafpur ujiup mioronan. Supzu perogka zufoti wekanti ocu pidzugvo bu kakacu tiz aluladji hi sizfueh. Gena mezi rut is dur heambet zaodacup gagajed simfufiv lafmop luwe tebje for ni susif mosad.",
+    "bio": "Idakajwac pubkune owu zeziw na bejgupor awabawco pipar rupvow eluufa guwhe wacibhir. Ipjisre raubama pu nisgu pezvaf jeonu uw husbiru feg law carhaslec emawapuv fisumwih ewfi. Rosuv vocizno luc odi bomemcaw pihtuj za lajuci gujijug fudzisa zaloho vufsil. Keuji viznavje za baot gewdacof ulzih ezohonom usojeno guvcornij fekij calod te lisgop betlak."
+  },
+  "apiKey": "a623b43aa8fee1e683f4a8538002b6bfbcec0190e7ebbaa84b04b74fc55cefb5",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
