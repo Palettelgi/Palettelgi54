@@ -1,0 +1,26 @@
+{
+  "name": "Leah Hammond",
+  "age": 19,
+  "address": {
+    "street": "Uviled Circle",
+    "city": "Vutvisev",
+    "state": "MO",
+    "zip": "84800"
+  },
+  "contact": {
+    "phone": "(741) 986-5720",
+    "servicePhone": "800741233"
+  },
+  "birthday": "1977-05-05T01:20:26.332Z",
+  "ip": "123.243.196.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Da ivi uwimuc gija wukna ho nisowzoh bijgiv lihisod atu nile edu fek gadto votof papune. Va ehe ot fin ehios jipvaket sopohap ale polape oheso usujid fol tel afbadibu ero aw. Ifezeudi rejemu ba bekmatbav ci ti zod wagi ru enmeno fatcavso joz luwol jivo. Seja cara zosmuvip evirohif mimabu ugtu veavle no zepico kul riv ugbekut so.",
+    "bio": "Hilruze jipjiido ke razug bihmape cuwwag ji omidu justem um cukid ka iserej neiriwe fevoc wazteavu keplemsum jin. Kakzob tasajafe nodi bisnu ennudja uca vusoja raeno gezol ketigwo cemgej ze cumoswah dahcage purpare. Zajavofa fuib tudvizleb puddi unzer riri geshumaz muzuffev wovati bes pug ovkone putoes. Al udaha ibode buzeid evemav ihufi zufivcir iku lo ubozes ko bopzitlag saus ceg hav ze huz. Ulisgil loufoke otudor cugvahi fim bavzuj wudbecu zekuhvah biz buj vohihot wozehkus becocu obafi cufpefaf aga ifuhokzo."
+  },
+  "apiKey": "d50ba8780d55d01f8fe2195d07c9fd584f4bd85749d16ac25cd1f9e8f72e0d82",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
