@@ -1,0 +1,26 @@
+{
+  "name": "Chase Ortega",
+  "age": 43,
+  "address": {
+    "street": "Esuic Circle",
+    "city": "Picinizin",
+    "state": "OK",
+    "zip": "53512"
+  },
+  "contact": {
+    "phone": "(661) 513-2576",
+    "servicePhone": "800854843"
+  },
+  "birthday": "1982-02-08T20:40:41.302Z",
+  "ip": "149.35.236.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Sih ivoek tahbune botpogheb kedluwa nad megojniz zet emadaj za kah munaotu. Avu fus vifibubih accas we hej su zum teb vutpaop ko ci zud. Ne di ka po wa cam sudhurcad dufpi voamtin joju vevuvka bedo cu.",
+    "bio": "Jaj hu baj biro tut adarow ledsifis jo si dukzaneko ma pul. Jokpeb furpa odaajeuz daed tez gaur lihenogo digkif vajal nu as ajene ovopuz holuzi. Depsu hajewkuk wah medto futaf sug kuruwnad dargus dowepep celgemi zunher civejfo naz viporho duge nobida. Kaagegu ulwi hi ro citol ruag sup mimva covlikug det usipon lek laritben pel faf ukuveh veme acge."
+  },
+  "apiKey": "1d90d7dab2a3d2d310ccecc03c962fb68b4307646d4136e4ac597cb65abc4ad8",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
