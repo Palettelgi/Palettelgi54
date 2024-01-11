@@ -1,0 +1,26 @@
+{
+  "name": "Isaac Morales",
+  "age": 27,
+  "address": {
+    "street": "Tami Loop",
+    "city": "Noaluke",
+    "state": "CA",
+    "zip": "52291"
+  },
+  "contact": {
+    "phone": "(964) 817-9698",
+    "servicePhone": "800271235"
+  },
+  "birthday": "2001-11-01T16:01:37.388Z",
+  "ip": "86.6.254.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Vakpo eja dohwaava habsuov luw hutelko cicse tac wus bifulgu is boffon. Ful covpiic sem so oso padege su heska ja ho efluc tuvli. Bas num kan vueki tojge gepevajo muem madam mihu mef vapo ji ose nuspolu bu tala uz. Boben vup garim tep fom noupu godede kujse uk raczeno me lenafsik jenup niggueb ogdobow ruozaipo ofnijpah. Nowval murubib ebeejuno omefe ibisa nu buzger izarjig caf fe dot gulgivuv rup. Nerzopon ba tepetzem ti akijitpo lenuwpu buwi da zojedbe ohzowocu zev ba ucdabted uhafofu ivco.",
+    "bio": "Ame ajigam viuwe li hezocno ozziiko huwob peluhjat lukisow lo iceri fan fo fisuses. Usidfu gobel mofcakte kanaw tubmu jalewo bowonke gebasso cavef gul egmagvo icba. Ho wul bugoc jelire kezil zu isgafsig seranber leita le ferhenif ca."
+  },
+  "apiKey": "90d483f112fc722f9b66c89b48d7a62fba1cfbe6db7a4df9a624bcb7cc7ab808",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
