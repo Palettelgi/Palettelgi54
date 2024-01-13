@@ -1,0 +1,26 @@
+{
+  "name": "Alan White",
+  "age": 25,
+  "address": {
+    "street": "Pimpi View",
+    "city": "Corfojel",
+    "state": "KY",
+    "zip": "21590"
+  },
+  "contact": {
+    "phone": "(675) 297-8535",
+    "servicePhone": "800226819"
+  },
+  "birthday": "1968-06-10T07:40:00.475Z",
+  "ip": "201.80.207.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Ublere bufla cubzon tut pelzehih awri sec ruk wuzahsak serzo vil fej. Lajhoam sokbeh nahocwos tebzocov we tig gemiwa di unha ezoken wawfi uraajuv uvogemu ror jenca joso ezeda. Okahespul aten ubacuk nenuvro topzemub cog doeze igbubun ticledhod zudef zisfevi luw wokheki vazvaluk ko.",
+    "bio": "Fuobcog vuh pomo dinko gagidesu dagaopa muca timfathi eterulzid av woctudfi piwlesvi gunne rujuzi paz. Ce aheip co moztev elibe iho dim pembamag uzagespiv ged bib ibuoled moglalhe jezam elahozud omubu. Kugfona kuihaako tohgurbib fakeac muromruz sorivno fukufkiv torluc elo ludurudu et zaci."
+  },
+  "apiKey": "c2c409a84d2c6b04d2509fa032da7a8170ce40b2a96a3a2b4c37d46961af9f9b",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
