@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Sims",
+  "age": 40,
+  "address": {
+    "street": "Cakli Junction",
+    "city": "Rodpopu",
+    "state": "TX",
+    "zip": "10910"
+  },
+  "contact": {
+    "phone": "(939) 732-5312",
+    "servicePhone": "800644133"
+  },
+  "birthday": "1995-08-20T07:41:02.576Z",
+  "ip": "130.234.174.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne silopo nek izinees tawu rap ovze hinajbi vatudzam bazfotar mufab na cussoac. Bud teoroda ze timbabsik afo tapenina neahnod vimizdu osopi ti mileceizi bekvadul jek ov ipe be enza. Vedij sefeewu bokeaci esekonza dukuz orepahum jis ruocza zu do opufottuw nor hivip di.",
+    "bio": "Alurodze gevholi bimefgon co fok ge bog ru rodu ubpan gikonida jilnot fasib meujudug la. Owosu sazad duz tepzucuz foj foebaej zemron pemokamur cazeheh jicazmi daosu uda at meho ibu hunjidu sup joscohoso. Anmiwga zoiwbe tamcu nar goek ac ogusuzin loreg wergidip udum bonular vujovga obo mababma keovubak joihfu."
+  },
+  "apiKey": "22ef6cdbda2f6956d09835ad13284a9fceb75a4d80af25ff15ef65b7db607b1e",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
