@@ -1,0 +1,26 @@
+{
+  "name": "Alta Sharp",
+  "age": 25,
+  "address": {
+    "street": "Ceko Circle",
+    "city": "Buroholep",
+    "state": "WA",
+    "zip": "49978"
+  },
+  "contact": {
+    "phone": "(682) 934-8248",
+    "servicePhone": "800892128"
+  },
+  "birthday": "1986-09-10T02:41:41.034Z",
+  "ip": "57.218.96.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Tutejoko gunal wejil ula jeh declal zeril coj dowvu huj culku otuwel arazotad uta cujemu zuonabi. Naosohi ole ucogaaj ohbohta hog uk oj ceh fi maw islavuw cuntuc welivo. Cu jawkus latetduk ragotko le pijdu zaj sud ejaguhri ru da ucbub he nikis givtu. Deazzem suvu gagnur zup dog eluci hoog jos pov pov ba guv ocide darsozon mu sudwikdo. Cubwad ur ubwofpib zavihsi kanazi wi dip diuda kelu bajoh ub jocowbol va casdo gubmih vababwu mo. Pociba bohpi gesezuto owuafjen lave nustun rinopo posigwe hura tapkajul ko biw musza im pomul sevi cojmiibe dat. Ru re zoced zof dujid lurobak zotgonziz buldu do dunaz ihijot hohomo azute zi duzid.",
+    "bio": "Tingaclu ako kuno waf va bedozaw barpignah po ota kaj fisinidig vevja cu av imfu laewkar. Viva lelemnu te imivaolu tetwo adlivuc joswe jugoron burmov uloozufoj okefabaf peje. Ge vi zad je bo ete wo gacu zadjon tarji evfad af pida. Ladamzi munaku sokoru vood olo befno jofge ma kop pad gepha zaos gum mewsosho joobuhed balwuge. Dovugovo vo wutujec se luc diknelu jukuw ho bocgur howewca napi cosatge zad jokauwu. Ge sajeoja ikocah vukhav ke kusno lomtal jenrujri rirmul didaja gec nuf dor im dizhamo kenriftu. Usuka wehlu huswal bulvunmip ciha lu eduifabu sa aw kerhusik perci udo ta."
+  },
+  "apiKey": "7a66b4c0c43324aa67da96787608c204fbbf56b7caf3fcc15c7269b2fe98f8d9",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
