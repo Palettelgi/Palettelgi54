@@ -1,0 +1,26 @@
+{
+  "name": "Bettie Hansen",
+  "age": 49,
+  "address": {
+    "street": "Bufdam Grove",
+    "city": "Upofeju",
+    "state": "AL",
+    "zip": "81686"
+  },
+  "contact": {
+    "phone": "(277) 891-2002",
+    "servicePhone": "800143678"
+  },
+  "birthday": "1983-10-06T03:09:30.720Z",
+  "ip": "142.189.131.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Jodef sowkaniv netezla advib zu megrioku gipod sadsaf ri tajgub fici fohguj ufuja zakazi vukol wege hodesu ha. Togiwe reco me liicaena zafkof coffapec ho atzis fecico ku dake pohlote bik ora cazzahuw fumo roduhpez kuwlipec. Jehucpet sapwu hoep mutijonos pugib hoso onidoc tad ivigoj vuviwvom nurov vapdep ri tidadih sot. Ahicu zuwi zidingoj fa lor midawo sefme podol ofu samadun lesigi gakofiv totjevpez. Ifi bivej sumtuodi cat pefri ive fo tim feskov hadasi berta coefkov hew tociw leb.",
+    "bio": "Zitiku code ved mev raun sageug digtajazi zetpo azapo limrobkef era joufjun bulvote gicmidkik lav tiwifhub legibijo. Asu haez zi woka widanop vomigiges jaajiwo miucona dophu hivgijhuv zu gir. Umege duap jo poobvu kum ni aro tufjev eju ogojizo si wiawa. Loc hecmo pizjo dovwi id da rag guneb vur da ewkipij tuk bijal ledup egdik tika."
+  },
+  "apiKey": "ce3135ff7b91c5c8506085f3b37482dc27a0715db74cab80f1d59d89d13230a6",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
