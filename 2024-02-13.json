@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Sandoval",
+  "age": 31,
+  "address": {
+    "street": "Neijo Point",
+    "city": "Nofmanwo",
+    "state": "VA",
+    "zip": "75861"
+  },
+  "contact": {
+    "phone": "(362) 953-6180",
+    "servicePhone": "800541393"
+  },
+  "birthday": "1976-02-19T15:12:33.026Z",
+  "ip": "85.247.164.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Fe lubgok fa rukrukih jo muw peil oto okali rode dawe gan. Omovamfo busjocgow zejhidac feb ama hebugfi eveav jinricnir vojkif vid vidla zesgawcuf. Fe fur na omsoem reem ti palugo saczagvu ob ap utotizet kinidnic hoka agole wucap mocbifhe.",
+    "bio": "Sedsof ibo nuzpud gal ke awim ga men etu muuvogut at fi jukuguzi agtog oro. Ro hep poduw uzlulrib manat fevujfog balici muhatam kicbiv ap pe rozhuptis ubolare jujipeupu kiuco. Hapu nampir riwu micdifuhu febulev gikirog ewbawsok ga ga uk ujeduh icvij."
+  },
+  "apiKey": "0d5332fa9b6a27f79a3bae0e046bce056f6f50db92b8d918a313dc8fd83c539a",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
