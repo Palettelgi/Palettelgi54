@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Ramirez",
+  "age": 19,
+  "address": {
+    "street": "Becja Key",
+    "city": "Iwjodi",
+    "state": "OR",
+    "zip": "36927"
+  },
+  "contact": {
+    "phone": "(676) 304-1926",
+    "servicePhone": "800976865"
+  },
+  "birthday": "1964-09-12T12:32:08.962Z",
+  "ip": "57.93.18.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Tivir ov awa pipda liwek lufep pawol wowubuh ja giweul rohavo ce bilu tifhif zahaesa zefgaguc gakaso. Iduba niid dabugaoj urco or wobmocca fek huuh zidkolur ir ogozul zi zotmad majcu etago avucolam kuvguvta mezid. Ilu wilu di le si veevdo giligijo gom roenpe uk mona ruir. Lakuhhu efamug ran pot se fij cebju fuozi ed paclip emonakeh bokpur ze. Jak waher beh mip hajbewso hok tihibji seg jalgiroti fu zuhitiuhi no eboze lozor wiv.",
+    "bio": "Manuwihi ivowuwjun ca fa ducfel ulito ibigi po bi fubunneb lorulpof elpel jowihaj bewdok. Sasvo bekbirlig sif gos cak mepuc vimrait er wo hihsuc muh ugeli. Bej kukji hutu fuzow zo fuvakral zu efubujcoc jimit tauv zurfibef pose mubokgin."
+  },
+  "apiKey": "722224bad3ed8fd34452c9c6e7f573bc7db893b698ff528afe327d4c261bbb7f",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
