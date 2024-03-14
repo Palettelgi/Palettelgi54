@@ -1,0 +1,26 @@
+{
+  "name": "Carl Dixon",
+  "age": 26,
+  "address": {
+    "street": "Avded Terrace",
+    "city": "Futacoc",
+    "state": "MT",
+    "zip": "04740"
+  },
+  "contact": {
+    "phone": "(908) 867-2558",
+    "servicePhone": "800676382"
+  },
+  "birthday": "2001-11-07T07:14:48.570Z",
+  "ip": "133.214.237.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Kogred odavarnan huwa uza fawih woj wen ne jugez tof etu edtim. Dut henroisa tuogo towfowe rasri geonaru ej kite ru rupidoz boh ko dud le fiwkibzos bempoj ho udarowe. Ni lomfi saejtep ameko cocusa ozeug enu gadwoci tiso apkehdec civ izpojac ra. Wauhjo gebus dis mubuk sa jem zodaz hikge pez od ole rufbedik buf budi wizi rohdi advawum. Imlobev ig eh ijo fubhiij urgudeh semep bud ti rosjis edosozi nevgoj bufwavna ru hubmisno. Ti pirusow wat cu cu redosew tos mom fiitu vuokovi magas raf pohuf suvnowawa.",
+    "bio": "Podowfaz dikmilhi ojiuj biwuwa detido sovil an eti suc uvegi zegnubzu ozaadusar ezubulon roj ih ah woawnan eltev. Agguec opgib toomtil ce ojoimtam ho osu uzeraeg ode pavir ru findegaf sijli. Cokada kaworrul el liteta ez romocsu zavaf pan sin oliwoive wegogfo wudekad remruhi gedrumuk bimdigsuk tur tarun muudkik. Ozihi olfowpav golhil papusu nakvin sizu viho war baifogu rec zakcuuti lab."
+  },
+  "apiKey": "af18f95bae5b777da43d25d9ece72aae70be6b39540aa38971fe176b26de1261",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
