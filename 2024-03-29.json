@@ -1,0 +1,26 @@
+{
+  "name": "Lee Barton",
+  "age": 54,
+  "address": {
+    "street": "Jecmi Highway",
+    "city": "Cetkesuz",
+    "state": "DE",
+    "zip": "83954"
+  },
+  "contact": {
+    "phone": "(729) 444-5823",
+    "servicePhone": "800831624"
+  },
+  "birthday": "2003-03-07T20:29:30.739Z",
+  "ip": "44.226.232.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Banju eplol inezjip vuc soz pa jo pibo pezsi nugfisjil sag ripafuput. Mur usanujhu ganbemica umidol le liud dosip wedow otoij ka iw mejo be acupab owmo uhukuzov javem. Pe fi tocpefi duvronur pobiri cilrouda kuvinizu miso mu eh zit gejceker foc.",
+    "bio": "Po lalcitu fe dipuro zusubjuf vugwe lunvitap mopcozpa zifcuf sucjeffo anuki fozvu ge jirav busudo gumpub kelvu bef. Mannil itzopu per farow telte rug lijzeem vizwegja bosrif uf jihi pilsip wecinmu docnatima dubkad. Ce pime to na obirevo favhul vabzo umzormim kinep ihgi gil uh bulsi id alen kij."
+  },
+  "apiKey": "eedfb8c3a9b1e67884a84f9ffbba5eb35cfc3dd8cd62e2ff4d33fe7bb47bb6c4",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
