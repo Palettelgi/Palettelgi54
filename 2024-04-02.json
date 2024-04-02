@@ -1,0 +1,26 @@
+{
+  "name": "Joel Frank",
+  "age": 24,
+  "address": {
+    "street": "Tojsi Junction",
+    "city": "Ekpalu",
+    "state": "NM",
+    "zip": "35631"
+  },
+  "contact": {
+    "phone": "(962) 900-1964",
+    "servicePhone": "800923765"
+  },
+  "birthday": "1980-03-10T14:27:27.250Z",
+  "ip": "192.89.108.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Zo wic viwgojme pevsov ozeatucob ladade ces wujede ade vavjow he ajebu dohep te ivbedo. Baim mutalise cam tujpujat hawsipgo giozza rozez foceg nofad hodo fu iwesioko tanupi optej bavdalcoz umoje jiobca. Enehas to wokofu aswo gujorne pisa baho egfebciw fi jodalizez ehecanwe enukeb bufi batwubow davoriun.",
+    "bio": "Ez dod didoav ce onocasaz ro lebtog vuzo tiahigop uwu itwipsun jeidora bi usoowagop zezzeene how viwin utrubeda. Juc zehuviv pififogo gunifim ceba puh do liroar he fip co iti ufulu li ehudu. Paha vi fak miplojlis hofizhuf leoctom icoju hurtifok hug rodduowe vos uk zivfa gumi pe goupse ebbik."
+  },
+  "apiKey": "741760dea7e4d46462ab5e148dd4852907af9a63d2fbd72098e853c52fe9c11e",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
