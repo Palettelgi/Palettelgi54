@@ -1,0 +1,26 @@
+{
+  "name": "Lola Dixon",
+  "age": 65,
+  "address": {
+    "street": "Somas Plaza",
+    "city": "Ozakalab",
+    "state": "TN",
+    "zip": "54962"
+  },
+  "contact": {
+    "phone": "(753) 976-8645",
+    "servicePhone": "800559222"
+  },
+  "birthday": "2004-01-23T02:34:10.388Z",
+  "ip": "41.26.16.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuife powohus li mu pebakmim dah vime sikum pafzivug im utuloali zezlud sargulkor viwaj viv epaicokuf. Neaplas hac nokpinbuc dev wo pu bo waruifo bi woloz gucawuw sa izuru meoma ezowemit. Ci ob ge zoageha hu rudenri jibe nac lowi puone lohpiroc rab uwo ug lu lar diwjarun re. Cihod dulis ajuus haljueg tiodaba pop cijjiec mitidtuh upsuhup unemi mozicki gaj gowmov lojvitic weh kojateti agobez. Rec jamzi linec iknah pawirti houhame cechu beg jeccovil ki fefi ucwug gizledvo tale zopcavuf ki uni.",
+    "bio": "Sonpim kovaem kout siboad suoru epacmon nag copcizet otzeh si avi fe maflaru ki hapim tic linaw ragpowot. Juhenmod ajki finewfib inaarabis habucek ton opabe tosgaze biovine oz di ukoim raffepe. Ca molaksij memfek ak is wiguvvah mokle covof jahfunma jivu il nazopec. Os iholoj dudis posu agiacipa ifzazet uli micuvir gowve za su dacaz fuem ubejo bodime su."
+  },
+  "apiKey": "242096631e851e98353214cee0e124c6d45b0e41dafb266394c879841abcfa08",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
