@@ -1,0 +1,26 @@
+{
+  "name": "Victor Wolfe",
+  "age": 59,
+  "address": {
+    "street": "Ugurog Point",
+    "city": "Mafodu",
+    "state": "MA",
+    "zip": "47981"
+  },
+  "contact": {
+    "phone": "(676) 834-7088",
+    "servicePhone": "800262955"
+  },
+  "birthday": "1995-12-10T00:51:15.356Z",
+  "ip": "156.183.144.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Ori debefmi veozu tahuftem wocpubbi fiva nik agilo koleful wosgub espo aci tumpeuge ahesziw ozaju isa. Gowu vankid juze ov hep iweli pes masmowjak ohju peibalu nanhov opoceba. Gonzi nusedi dogbiowu da avgophug nafzo labpet pej kap malid car zoslulub cu vahed.",
+    "bio": "Ol tog wekallo mac sic lagije bolwectik kovlop mek cab ozo tuhbe da zibij mi fanfeziv giseto. Hicujpis hu ofevco jad kuwujzo lorve gahdev widvo hiv efkah kuh gieci ep ur awowo okisag ozetu. Talik wevli lo juksofob wutgas vuc feucbo fugfif wigoec emu kagit omot. Vum uj idhenmi tuozuril jeon ewbumu reujeco cucvulu enasi kuk se rezruzef gu du mez ok."
+  },
+  "apiKey": "a208fd51a4d61d25ca3a71aea12b01079094d61e9cdbfcad3ebd048ce4eecbe0",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
